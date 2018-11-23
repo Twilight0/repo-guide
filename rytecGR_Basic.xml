@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" generator-info-url="http://forums.openpli.org">
+  <channel id="4E.gr">
+    <display-name lang="el">4Ε</display-name>
+  </channel>
+  <channel id="Action24.gr">
+    <display-name lang="el">Action 24</display-name>
+  </channel>
+  <channel id="AigaioTV.gr">
+    <display-name lang="el">Αιγαίο TV</display-name>
+  </channel>
+  <channel id="ALERT.gr">
+    <display-name lang="el">ALERT</display-name>
+  </channel>
+  <channel id="AlJazeeraIntl.gr">
+    <display-name lang="el">AL JAZEERA</display-name>
+  </channel>
+  <channel id="alpha.gr">
+    <display-name lang="el">Alpha Greece</display-name>
+  </channel>
+  <channel id="ALPHACYPRUS.cy">
+    <display-name lang="el">ALPHA CYPRUS</display-name>
+  </channel>
+  <channel id="animalplanet.gr">
+    <display-name lang="el">Animal Planet</display-name>
+  </channel>
+  <channel id="ANT1.cy">
+    <display-name lang="el">ANT1 Cyprus</display-name>
+  </channel>
+  <channel id="ANT1.gr">
+    <display-name lang="el">ANT1 Greece</display-name>
+  </channel>
+  <channel id="APT.gr">
+    <display-name lang="el">ΑΡΤ</display-name>
+  </channel>
+  <channel id="BabyTV.gr">
+    <display-name lang="el">Baby TV</display-name>
+  </channel>
+  <channel id="BBCEarth.gr">
+    <display-name lang="el">BBC Earth HD</display-name>
+  </channel>
+  <channel id="BestTV.gr">
+    <display-name lang="el">Best TV</display-name>
+  </channel>
+  <channel id="BlueSky.gr">
+    <display-name lang="el">Blue Sky</display-name>
+  </channel>
+  <channel id="BodyInBalance.gr">
+    <display-name lang="el">Body in Balance</display-name>
+  </channel>
+  <channel id="Boomerang.gr">
+    <display-name lang="el">Boomerang</display-name>
+  </channel>
+  <channel id="CapitalTV.cy">
+    <display-name lang="en">Capital TV</display-name>
+  </channel>
+  <channel id="CBSReality.gr">
+    <display-name lang="el">CBS Reality</display-name>
+  </channel>
+  <channel id="Channel9.gr">
+    <display-name lang="el">Channel 9</display-name>
+  </channel>
+  <channel id="CMusicTV.gr">
+    <display-name lang="el">C Music TV</display-name>
+  </channel>
+  <channel id="CorfuChannel.gr">
+    <display-name lang="el">Corfu Channel</display-name>
+  </channel>
+  <channel id="CrimeInvestigation.gr">
+    <display-name lang="el">Crime and Investigation</display-name>
+  </channel>
+  <channel id="DeltaTV.gr">
+    <display-name lang="el">Δέλτα TV</display-name>
+  </channel>
+  <channel id="DeutscheWelle.gr">
+    <display-name lang="el">Deutsche Welle</display-name>
+  </channel>
+  <channel id="DiktyoTV.gr">
+    <display-name lang="el">ΔΙΚΤΥΟ TV</display-name>
+  </channel>
+  <channel id="discovery.gr">
+    <display-name lang="el">Discovery Channel</display-name>
+  </channel>
+  <channel id="DiscoveryHD.gr">
+    <display-name lang="el">Discovery Showcase HD</display-name>
+  </channel>
+  <channel id="DiscoveryID.gr">
+    <display-name lang="en">ID (Discovery) IDX HD</display-name>
+  </channel>
+  <channel id="DiscoveryScience.gr">
+    <display-name lang="en">Science (Discovery)</display-name>
+  </channel>
+  <channel id="DisneyChannel.gr">
+    <display-name lang="el">DISNEY CHANNEL</display-name>
+  </channel>
+  <channel id="DisneyJunior.gr">
+    <display-name lang="el">DISNEY JUNIOR</display-name>
+  </channel>
+  <channel id="DisneyXD.gr">
+    <display-name lang="el">DISNEY-XD</display-name>
+  </channel>
+  <channel id="EDGEsport.gr">
+    <display-name lang="el">EDGEsport HD</display-name>
+  </channel>
+  <channel id="Eentertainment.gr">
+    <display-name lang="el">E! Entertainment</display-name>
+  </channel>
+  <channel id="EPT1.gr">
+    <display-name lang="el">ΕΡΤ1</display-name>
+  </channel>
+  <channel id="EPT2.gr">
+    <display-name lang="el">ΕΡΤ2</display-name>
+  </channel>
+  <channel id="EPT3.gr">
+    <display-name lang="el">ΕΡΤ3</display-name>
+  </channel>
+  <channel id="EPT-HD.gr">
+    <display-name lang="el">ΔΤ HD</display-name>
+  </channel>
+  <channel id="ERTWorld.gr">
+    <display-name lang="el">ERT World</display-name>
+  </channel>
+  <channel id="EuroSport1.gr">
+    <display-name lang="el">Eurosport</display-name>
+  </channel>
+  <channel id="EuroSport2.gr">
+    <display-name lang="el">Eurosport2</display-name>
+  </channel>
+  <channel id="Extra.cy">
+    <display-name lang="el">Extra Cyprus</display-name>
+  </channel>
+  <channel id="Extra.gr">
+    <display-name lang="el">Extra Greece</display-name>
+  </channel>
+  <channel id="FashionTV.gr">
+    <display-name lang="el">FASHION TELEVISION</display-name>
+  </channel>
+  <channel id="Fineliving.gr">
+    <display-name lang="el">Fine Living</display-name>
+  </channel>
+  <channel id="FoodNetwork.gr">
+    <display-name lang="el">FOOD NETWORK</display-name>
+  </channel>
+  <channel id="FOX.gr">
+    <display-name lang="el">FOX</display-name>
+  </channel>
+  <channel id="Foxlife.gr">
+    <display-name lang="el">FOX Life</display-name>
+  </channel>
+  <channel id="FoxSports.gr">
+    <display-name lang="el">FOX SPORTS HD</display-name>
+  </channel>
+  <channel id="InvestigationDiscovery.cy">
+    <display-name lang="en">Investigation Discovery</display-name>
+  </channel>
+  <channel id="IPIROSTV.gr">
+    <display-name lang="el">Ήπειρος TV1</display-name>
+  </channel>
+  <channel id="Kontra.gr">
+    <display-name lang="el">Kontra Channel</display-name>
+  </channel>
+  <channel id="Macedonia.gr">
+    <display-name lang="el">Macedonia TV</display-name>
+  </channel>
+  <channel id="Mad.cy">
+    <display-name lang="en">Mad Cyprus</display-name>
+  </channel>
+  <channel id="MADGreekz.gr">
+    <display-name lang="el">Mad Greekz</display-name>
+  </channel>
+  <channel id="MadHits.gr">
+    <display-name lang="el">Mad Hits</display-name>
+  </channel>
+  <channel id="MADTV.gr">
+    <display-name lang="el">MAD TV</display-name>
+  </channel>
+  <channel id="mega.gr">
+    <display-name lang="el">Mega Channel</display-name>
+  </channel>
+  <channel id="Mezzo.gr">
+    <display-name lang="el">Mezzo</display-name>
+  </channel>
+  <channel id="MotorsTV.gr">
+    <display-name lang="el">Motors TV</display-name>
+  </channel>
+  <channel id="MotorvisionChannel.gr">
+    <display-name lang="el">Motorvision Channel</display-name>
+  </channel>
+  <channel id="MTV.gr">
+    <display-name lang="el">MTV</display-name>
+  </channel>
+  <channel id="natgeo.gr">
+    <display-name lang="el">National Geographic</display-name>
+  </channel>
+  <channel id="natgeoHD.gr">
+    <display-name lang="el">National Geographic HD</display-name>
+  </channel>
+  <channel id="NatGeoWild.gr">
+    <display-name lang="el">NAT GEO WILD</display-name>
+  </channel>
+  <channel id="NauticalChannel.gr">
+    <display-name lang="el">NAUTICAL CHANNEL</display-name>
+  </channel>
+  <channel id="NeaTeleoraseKretes.gr">
+    <display-name lang="el">Νέα Τηλεόραση Κρήτης</display-name>
+  </channel>
+  <channel id="NewTV.gr">
+    <display-name lang="el">New TV</display-name>
+  </channel>
+  <channel id="Nickelodeon.gr">
+    <display-name lang="el">NICKELODEON</display-name>
+  </channel>
+  <channel id="NovaLife.gr">
+    <display-name lang="el">novalife</display-name>
+  </channel>
+  <channel id="OPENBEYOND.gr">
+    <display-name lang="el">OPEN BEYOND</display-name>
+  </channel>
+  <channel id="OutdoorChannel.gr">
+    <display-name lang="el">OUTDOOR CHANNEL</display-name>
+  </channel>
+  <channel id="PlusTV.cy">
+    <display-name lang="el">Plus TV</display-name>
+  </channel>
+  <channel id="RIK1.cy">
+    <display-name lang="el">Rik 1</display-name>
+  </channel>
+  <channel id="RIK2.cy">
+    <display-name lang="el">Rik 2</display-name>
+  </channel>
+  <channel id="RikSat.gr">
+    <display-name lang="el">RIK Sat</display-name>
+  </channel>
+  <channel id="SigmaTV.cy">
+    <display-name lang="el">Sigma TV</display-name>
+  </channel>
+  <channel id="Skai.gr">
+    <display-name lang="el">Skai</display-name>
+  </channel>
+  <channel id="SmileTV.gr">
+    <display-name lang="el">Smile TV</display-name>
+  </channel>
+  <channel id="star.gr">
+    <display-name lang="el">Star</display-name>
+  </channel>
+  <channel id="StarKentrikesElladas.gr">
+    <display-name lang="el">Star Κεντρικής Ελλάδας</display-name>
+  </channel>
+  <channel id="StingrayIConcerts.gr">
+    <display-name lang="el">Stingray iConcerts</display-name>
+  </channel>
+  <channel id="SundanceChannel.gr">
+    <display-name lang="el">Sundance Channel</display-name>
+  </channel>
+  <channel id="TheHistoryChannel.gr">
+    <display-name lang="el">History</display-name>
+  </channel>
+  <channel id="TLC.gr">
+    <display-name lang="en">TLC</display-name>
+  </channel>
+  <channel id="travel.gr">
+    <display-name lang="el">TRAVEL CHANNEL</display-name>
+  </channel>
+  <channel id="TRT.gr">
+    <display-name lang="el">TRT</display-name>
+  </channel>
+  <channel id="TV100.cy">
+    <display-name lang="el">TV100</display-name>
+  </channel>
+  <channel id="TVOne.cy">
+    <display-name lang="el">TV One Cyprus</display-name>
+  </channel>
+  <channel id="VH1.gr">
+    <display-name lang="el">VH1</display-name>
+  </channel>
+  <channel id="ViasatExplore.gr">
+    <display-name lang="el">Viasat Explore</display-name>
+  </channel>
+  <channel id="ViasatHistory.gr">
+    <display-name lang="el">Viasat History</display-name>
+  </channel>
+  <channel id="ViasatNature.gr">
+    <display-name lang="el">Viasat Nature</display-name>
+  </channel>
+  <channel id="vouli.gr">
+    <display-name lang="el">Vouli</display-name>
+  </channel>
+  <channel id="WorldFashion.gr">
+    <display-name lang="el">World Fashion</display-name>
+  </channel>
+  <channel id="ΙΟΝΙΑΝ.gr">
+    <display-name lang="el">ΙΟΝΙΑΝ TV</display-name>
+  </channel>
+  <channel id="ΚreteTV.gr">
+    <display-name lang="el">Κρήτη TV</display-name>
+  </channel>
+</tv>
